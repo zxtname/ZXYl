@@ -1,0 +1,10 @@
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\NBCZ.Model\bin\Debug\NBCZ.Model.dll
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\NBCZ.Model\bin\Debug\NBCZ.Model.pdb
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\NBCZ.Model\bin\Debug\Dapper.Contrib.dll
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\NBCZ.Model\bin\Debug\Dapper.dll
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\NBCZ.Model\bin\Debug\TinyMapper.dll
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\NBCZ.Model\bin\Debug\Dapper.xml
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\NBCZ.Model\bin\Debug\Dapper.Contrib.xml
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\NBCZ.Model\obj\Debug\NBCZ.Model.dll
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\NBCZ.Model\obj\Debug\NBCZ.Model.pdb
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\NBCZ.Model\obj\Debug\NBCZ.Model.csprojResolveAssemblyReference.cache

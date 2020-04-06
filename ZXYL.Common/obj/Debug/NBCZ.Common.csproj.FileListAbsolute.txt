@@ -1,0 +1,9 @@
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\NBCZ.Common\bin\Debug\NBCZ.Common.dll
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\NBCZ.Common\bin\Debug\NBCZ.Common.pdb
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\NBCZ.Common\bin\Debug\AutoMapper.dll
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\NBCZ.Common\bin\Debug\log4net.dll
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\NBCZ.Common\bin\Debug\TinyMapper.dll
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\NBCZ.Common\bin\Debug\AutoMapper.xml
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\NBCZ.Common\bin\Debug\log4net.xml
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\NBCZ.Common\obj\Debug\NBCZ.Common.dll
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\NBCZ.Common\obj\Debug\NBCZ.Common.pdb

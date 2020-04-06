@@ -1,0 +1,10 @@
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\ZXYL.Common\bin\Debug\ZXYL.Common.dll
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\ZXYL.Common\bin\Debug\ZXYL.Common.pdb
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\ZXYL.Common\bin\Debug\AutoMapper.dll
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\ZXYL.Common\bin\Debug\log4net.dll
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\ZXYL.Common\bin\Debug\TinyMapper.dll
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\ZXYL.Common\bin\Debug\AutoMapper.xml
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\ZXYL.Common\bin\Debug\log4net.xml
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\ZXYL.Common\obj\Debug\ZXYL.Common.csprojResolveAssemblyReference.cache
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\ZXYL.Common\obj\Debug\ZXYL.Common.dll
+C:\Users\zxt_name\Desktop\下载的前端代码\NBCZ_Admin_Vue\ZXYL.Common\obj\Debug\ZXYL.Common.pdb

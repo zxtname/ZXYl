@@ -1,0 +1,6 @@
+
+2020-03-24 14:51:30,949 [11] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Authroize
+ exception:在应使用条件的上下文(在 '1=1' 附近)中指定了非布尔类型的表达式。
+ contextdata:
+ 

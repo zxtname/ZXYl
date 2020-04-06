@@ -1,0 +1,8 @@
+
+2020-03-23 09:52:35,280 [6] INFO  RequestLog - http://localhost:51534/api/PubDept/GetList
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg0OTI4MzAwLCJleHAiOjE1ODQ5MzAxMDAsImlhdCI6MTU4NDkyODMwMCwiaXNzIjoiTkJDWi5XZWIuQXBpIn0.e-Mxihrt_dbRoPYZ4Xwlbz4lncjjs-0_x0ZW139ocSs 
+ data:
+
+2020-03-23 09:52:56,633 [12] INFO  RequestLog - http://localhost:51534/api/PubDept/GetList
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg0OTI4MzAwLCJleHAiOjE1ODQ5MzAxMDAsImlhdCI6MTU4NDkyODMwMCwiaXNzIjoiTkJDWi5XZWIuQXBpIn0.e-Mxihrt_dbRoPYZ4Xwlbz4lncjjs-0_x0ZW139ocSs 
+ data:

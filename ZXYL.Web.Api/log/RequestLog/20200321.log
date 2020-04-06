@@ -1,0 +1,12 @@
+
+2020-03-21 22:10:54,807 [11] INFO  RequestLog - http://localhost:51534/api/PubFunction/GetList
+token:Bearer 
+ data:
+
+2020-03-21 22:11:16,589 [9] INFO  RequestLog - http://localhost:51534/api/PubFunction/GetList
+token:Bearer 
+ data:
+
+2020-03-21 22:11:34,739 [10] INFO  RequestLog - http://localhost:51534/api/PubDept/GetList
+token:Bearer 
+ data:

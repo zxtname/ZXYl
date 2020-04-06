@@ -1,0 +1,12 @@
+
+2020-03-22 09:12:17,865 [10] ERROR NBCZ.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Values/123456
+ exception:≥¢ ‘≥˝“‘¡„°£
+ contextdata:
+ 
+
+2020-03-22 09:17:43,475 [10] ERROR NBCZ.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Values/123456
+ exception:≥¢ ‘≥˝“‘¡„°£
+ contextdata:
+ 
