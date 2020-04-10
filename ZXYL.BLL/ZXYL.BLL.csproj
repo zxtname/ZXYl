@@ -51,6 +51,9 @@
     <Compile Include="Pub_RoleBLL.cs" />
     <Compile Include="Pub_UserBLL.cs" />
     <Compile Include="T4.DapperExt\BaseServiceDapperContrib.cs" />
+    <Compile Include="T4.DapperExt\Pub_courseBLL.cs">
+      <DependentUpon>Service.tt</DependentUpon>
+    </Compile>
     <Compile Include="T4.DapperExt\Pub_DepartmentBLL.cs">
       <DependentUpon>Service.tt</DependentUpon>
     </Compile>
@@ -72,9 +75,7 @@
     <Compile Include="T4.DapperExt\Pub_UserRoleBLL.cs">
       <DependentUpon>Service.tt</DependentUpon>
     </Compile>
-    <Compile Include="T4.DapperExt\Service.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
+    <Compile Include="T4.DapperExt\Pub_videoBLL.cs">
       <DependentUpon>Service.tt</DependentUpon>
     </Compile>
     <Compile Include="T4.DapperExt\V_PubDept_ParentBLL.cs">
@@ -110,9 +111,14 @@
   <ItemGroup>
     <Content Include="T4.DapperExt\Service.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>Service.cs</LastGenOutput>
+      <LastGenOutput>Service1.txt</LastGenOutput>
     </Content>
     <Content Include="T4.DapperExt\Service.txt" />
+    <Content Include="T4.DapperExt\Service1.txt">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Service.tt</DependentUpon>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

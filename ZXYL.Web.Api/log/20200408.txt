@@ -1,0 +1,12 @@
+
+2020-04-08 10:37:29,523 [48] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/PubUser/GetPage
+ exception:¡°)¡±¸½½üÓÐÓï·¨´íÎó¡£
+ contextdata:{
+  "pageNum": 1,
+  "pageSize": 100,
+  "field": "",
+  "order": "",
+  "query": {}
+}
+ 

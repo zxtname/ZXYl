@@ -60,6 +60,9 @@
     <Compile Include="PageDateRes.cs" />
     <Compile Include="PageList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="T4.DapperExt\Pub_course.cs">
+      <DependentUpon>Entity.tt</DependentUpon>
+    </Compile>
     <Compile Include="T4.DapperExt\Pub_Department.cs">
       <DependentUpon>Entity.tt</DependentUpon>
     </Compile>
@@ -79,6 +82,9 @@
       <DependentUpon>Entity.tt</DependentUpon>
     </Compile>
     <Compile Include="T4.DapperExt\Pub_UserRole.cs">
+      <DependentUpon>Entity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="T4.DapperExt\Pub_video.cs">
       <DependentUpon>Entity.tt</DependentUpon>
     </Compile>
     <Compile Include="T4.DapperExt\V_PubDept_Parent.cs">

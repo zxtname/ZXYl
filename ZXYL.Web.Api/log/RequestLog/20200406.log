@@ -1,0 +1,4 @@
+
+2020-04-06 19:56:46,637 [8] INFO  RequestLog - http://localhost:51534/api/PubFunction/GetList
+token:Bearer 
+ data:

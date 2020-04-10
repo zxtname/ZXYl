@@ -1,0 +1,12 @@
+
+2020-04-10 09:34:58,222 [6] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Video/getVideo
+ exception:列名 'r打打杀杀的' 无效。
+ contextdata:
+ 
+
+2020-04-10 09:35:42,698 [6] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Video/getVideo
+ exception:列名 'hhhhhhh' 无效。
+ contextdata:
+ 

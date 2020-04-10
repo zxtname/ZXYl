@@ -57,6 +57,9 @@
     <Compile Include="Pub_FunctionDAL.cs" />
     <Compile Include="Pub_UserDAL.cs" />
     <Compile Include="T4.DapperExt\BaseDataDapperContrib.cs" />
+    <Compile Include="T4.DapperExt\Pub_courseDAL.cs">
+      <DependentUpon>Repository.tt</DependentUpon>
+    </Compile>
     <Compile Include="T4.DapperExt\Pub_DepartmentDAL.cs">
       <DependentUpon>Repository.tt</DependentUpon>
     </Compile>
@@ -76,6 +79,9 @@
       <DependentUpon>Repository.tt</DependentUpon>
     </Compile>
     <Compile Include="T4.DapperExt\Pub_UserRoleDAL.cs">
+      <DependentUpon>Repository.tt</DependentUpon>
+    </Compile>
+    <Compile Include="T4.DapperExt\Pub_videoDAL.cs">
       <DependentUpon>Repository.tt</DependentUpon>
     </Compile>
     <Compile Include="T4.DapperExt\V_PubDept_ParentDAL.cs">

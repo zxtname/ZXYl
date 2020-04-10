@@ -1,0 +1,96 @@
+
+2020-04-07 21:22:40,965 [5] INFO  RequestLog - http://localhost:51534/api/PubUser/GetAccess
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYwLCJleHAiOjE1ODYyNjc1NjAsImlhdCI6MTU4NjI2NTc2MCwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.zDHhbBFVFZt6zE0DYKbkN5HiRRyMOZSTqc8y_5CwbXc 
+ data:
+
+2020-04-07 21:22:41,499 [8] INFO  RequestLog - http://localhost:51534/api/PubFunction/getMenu
+token:Bearer false 
+ data:
+
+2020-04-07 21:22:41,641 [6] INFO  RequestLog - http://localhost:51534/api/PubUser/GetAccess
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYxLCJleHAiOjE1ODYyNjc1NjEsImlhdCI6MTU4NjI2NTc2MSwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.3dvVVTwECz01v2Zph90VJpHe2C7RiSYdhxVUgYnMkTg 
+ data:
+
+2020-04-07 21:22:42,853 [6] INFO  RequestLog - http://localhost:51534/api/PubUser/GetAccess
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYxLCJleHAiOjE1ODYyNjc1NjEsImlhdCI6MTU4NjI2NTc2MSwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.3dvVVTwECz01v2Zph90VJpHe2C7RiSYdhxVUgYnMkTg 
+ data:
+
+2020-04-07 21:22:43,018 [10] INFO  RequestLog - http://localhost:51534/api/PubFunction/getMenu
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYxLCJleHAiOjE1ODYyNjc1NjEsImlhdCI6MTU4NjI2NTc2MSwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.3dvVVTwECz01v2Zph90VJpHe2C7RiSYdhxVUgYnMkTg 
+ data:
+
+2020-04-07 21:22:48,458 [5] INFO  RequestLog - http://localhost:51534/api/PubUser/GetPage
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYxLCJleHAiOjE1ODYyNjc1NjEsImlhdCI6MTU4NjI2NTc2MSwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.3dvVVTwECz01v2Zph90VJpHe2C7RiSYdhxVUgYnMkTg 
+ data:{"pageNum":1,"pageSize":10,"field":"Id","order":"asc","query":{}}
+
+2020-04-07 21:22:48,481 [11] INFO  RequestLog - http://localhost:51534/api/PubRole/GetList
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYxLCJleHAiOjE1ODYyNjc1NjEsImlhdCI6MTU4NjI2NTc2MSwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.3dvVVTwECz01v2Zph90VJpHe2C7RiSYdhxVUgYnMkTg 
+ data:
+
+2020-04-07 21:22:59,497 [8] INFO  RequestLog - http://localhost:51534/api/PubRole/GetPage
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYxLCJleHAiOjE1ODYyNjc1NjEsImlhdCI6MTU4NjI2NTc2MSwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.3dvVVTwECz01v2Zph90VJpHe2C7RiSYdhxVUgYnMkTg 
+ data:{"pageNum":1,"pageSize":10,"field":"Id","order":"asc","query":{}}
+
+2020-04-07 21:23:09,636 [8] INFO  RequestLog - http://localhost:51534/api/PubRole/GetPage
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYxLCJleHAiOjE1ODYyNjc1NjEsImlhdCI6MTU4NjI2NTc2MSwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.3dvVVTwECz01v2Zph90VJpHe2C7RiSYdhxVUgYnMkTg 
+ data:{"pageNum":1,"pageSize":10,"field":"Id","order":"asc","query":{"SL_RoleName":"r"}}
+
+2020-04-07 21:23:14,845 [5] INFO  RequestLog - http://localhost:51534/api/PubRole/GetPage
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYxLCJleHAiOjE1ODYyNjc1NjEsImlhdCI6MTU4NjI2NTc2MSwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.3dvVVTwECz01v2Zph90VJpHe2C7RiSYdhxVUgYnMkTg 
+ data:{"pageNum":1,"pageSize":10,"field":"Id","order":"asc","query":{"SL_RoleName":""}}
+
+2020-04-07 21:23:40,706 [6] INFO  RequestLog - http://localhost:51534/api/PubRole/GetPage
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYxLCJleHAiOjE1ODYyNjc1NjEsImlhdCI6MTU4NjI2NTc2MSwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.3dvVVTwECz01v2Zph90VJpHe2C7RiSYdhxVUgYnMkTg 
+ data:{"pageNum":1,"pageSize":10,"field":"Id","order":"asc","query":{"SL_RoleName":"³¬"}}
+
+2020-04-07 21:23:44,923 [10] INFO  RequestLog - http://localhost:51534/api/PubFunction/GetList
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYxLCJleHAiOjE1ODYyNjc1NjEsImlhdCI6MTU4NjI2NTc2MSwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.3dvVVTwECz01v2Zph90VJpHe2C7RiSYdhxVUgYnMkTg 
+ data:
+
+2020-04-07 21:23:44,940 [10] INFO  RequestLog - http://localhost:51534/api/PubFunction/GetList
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYxLCJleHAiOjE1ODYyNjc1NjEsImlhdCI6MTU4NjI2NTc2MSwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.3dvVVTwECz01v2Zph90VJpHe2C7RiSYdhxVUgYnMkTg 
+ data:
+
+2020-04-07 21:23:44,941 [10] INFO  RequestLog - http://localhost:51534/api/PubFunction/GetChildList/
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYxLCJleHAiOjE1ODYyNjc1NjEsImlhdCI6MTU4NjI2NTc2MSwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.3dvVVTwECz01v2Zph90VJpHe2C7RiSYdhxVUgYnMkTg 
+ data:
+
+2020-04-07 21:23:59,120 [6] INFO  RequestLog - http://localhost:51534/api/PubDept/GetList
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYxLCJleHAiOjE1ODYyNjc1NjEsImlhdCI6MTU4NjI2NTc2MSwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.3dvVVTwECz01v2Zph90VJpHe2C7RiSYdhxVUgYnMkTg 
+ data:
+
+2020-04-07 21:23:59,123 [11] INFO  RequestLog - http://localhost:51534/api/PubDept/GetList
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYxLCJleHAiOjE1ODYyNjc1NjEsImlhdCI6MTU4NjI2NTc2MSwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.3dvVVTwECz01v2Zph90VJpHe2C7RiSYdhxVUgYnMkTg 
+ data:
+
+2020-04-07 21:23:59,138 [12] INFO  RequestLog - http://localhost:51534/api/PubDept/GetChildList/
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYxLCJleHAiOjE1ODYyNjc1NjEsImlhdCI6MTU4NjI2NTc2MSwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.3dvVVTwECz01v2Zph90VJpHe2C7RiSYdhxVUgYnMkTg 
+ data:
+
+2020-04-07 21:26:36,603 [12] INFO  RequestLog - http://localhost:51534/api/PubUser/GetPage
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYxLCJleHAiOjE1ODYyNjc1NjEsImlhdCI6MTU4NjI2NTc2MSwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.3dvVVTwECz01v2Zph90VJpHe2C7RiSYdhxVUgYnMkTg 
+ data:{"pageNum":1,"pageSize":10,"field":"Id","order":"asc","query":{}}
+
+2020-04-07 21:26:36,609 [7] INFO  RequestLog - http://localhost:51534/api/PubRole/GetList
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYxLCJleHAiOjE1ODYyNjc1NjEsImlhdCI6MTU4NjI2NTc2MSwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.3dvVVTwECz01v2Zph90VJpHe2C7RiSYdhxVUgYnMkTg 
+ data:
+
+2020-04-07 21:26:44,897 [11] INFO  RequestLog - http://localhost:51534/api/PubUser/GetPage
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYxLCJleHAiOjE1ODYyNjc1NjEsImlhdCI6MTU4NjI2NTc2MSwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.3dvVVTwECz01v2Zph90VJpHe2C7RiSYdhxVUgYnMkTg 
+ data:{"pageNum":1,"pageSize":10,"field":"Id","order":"asc","query":{"SL_Tel":"445"}}
+
+2020-04-07 21:30:31,122 [12] INFO  RequestLog - http://localhost:51534/api/PubRole/GetList
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYxLCJleHAiOjE1ODYyNjc1NjEsImlhdCI6MTU4NjI2NTc2MSwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.3dvVVTwECz01v2Zph90VJpHe2C7RiSYdhxVUgYnMkTg 
+ data:
+
+2020-04-07 21:30:31,132 [17] INFO  RequestLog - http://localhost:51534/api/PubUser/GetPage
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYxLCJleHAiOjE1ODYyNjc1NjEsImlhdCI6MTU4NjI2NTc2MSwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.3dvVVTwECz01v2Zph90VJpHe2C7RiSYdhxVUgYnMkTg 
+ data:{"pageNum":1,"pageSize":10,"field":"Id","order":"asc","query":{}}
+
+2020-04-07 21:30:33,279 [12] INFO  RequestLog - http://localhost:51534/api/PubRole/GetPage
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYxLCJleHAiOjE1ODYyNjc1NjEsImlhdCI6MTU4NjI2NTc2MSwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.3dvVVTwECz01v2Zph90VJpHe2C7RiSYdhxVUgYnMkTg 
+ data:{"pageNum":1,"pageSize":10,"field":"Id","order":"asc","query":{}}
+
+2020-04-07 21:37:14,265 [24] INFO  RequestLog - http://localhost:51534/api/PubRole/GetPage
+token:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwiSWQiOiIyIiwiVXNlckNvZGUiOiIwMDAwMDAwMiIsIlRlbCI6IjE1Mjg4MTMzMTE2IiwiRGVwdENvZGUiOiJEMDAwMDAyIiwibmJmIjoxNTg2MjY1NzYxLCJleHAiOjE1ODYyNjc1NjEsImlhdCI6MTU4NjI2NTc2MSwiaXNzIjoiWlhZTC5XZWIuQXBpIn0.3dvVVTwECz01v2Zph90VJpHe2C7RiSYdhxVUgYnMkTg 
+ data:{"pageNum":1,"pageSize":10,"field":"Id","order":"asc","query":{}}
