@@ -33,6 +33,10 @@ namespace ZXYL.Web.Api.Controllers
         }
 
         // POST api/values
+        /// <summary>
+        /// 测试
+        /// </summary>
+        /// <param name="value"></param>
         public void Post([FromBody]string value)
         {
         }

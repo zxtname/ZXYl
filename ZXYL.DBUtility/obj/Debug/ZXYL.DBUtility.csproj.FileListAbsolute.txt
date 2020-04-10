@@ -13,6 +13,5 @@ C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.DBUtility\bin\Debug\Dapper.Contrib.dll
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.DBUtility\bin\Debug\Dapper.dll
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.DBUtility\bin\Debug\Dapper.xml
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.DBUtility\bin\Debug\Dapper.Contrib.xml
-C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.DBUtility\obj\Debug\ZXYL.DBUtility.csprojResolveAssemblyReference.cache
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.DBUtility\obj\Debug\ZXYL.DBUtility.dll
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.DBUtility\obj\Debug\ZXYL.DBUtility.pdb

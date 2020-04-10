@@ -77,7 +77,6 @@ C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\swagger.js
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\ZXYL.Web.Api.dll.config
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\ZXYL.Web.Api.dll
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\ZXYL.Web.Api.pdb
-C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\NBCZ.Web.Api.XML
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\Antlr3.Runtime.dll
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\Microsoft.IdentityModel.Logging.dll

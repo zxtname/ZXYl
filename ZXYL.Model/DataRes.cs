@@ -18,6 +18,7 @@ namespace ZXYL.Model
         public T data { get; set; }
     }
 
+
     public enum ResCode
     {
         /// <summary>

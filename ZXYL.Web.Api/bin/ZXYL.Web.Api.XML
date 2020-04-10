@@ -640,6 +640,42 @@
             <param name="id"></param>
             <returns></returns>
         </member>
+        <member name="M:ZXYL.Web.Api.Controllers.ValuesController.Post(System.String)">
+            <summary>
+            测试
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:ZXYL.Web.Api.Controllers.VideoController.PutVideo(ZXYL.Model.Pub_video)">
+            <summary>
+            修改Video中的数据
+            </summary>
+            <param name="changeVideo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ZXYL.Web.Api.Controllers.VideoController.GetVideoByCourseId(System.String)">
+            <summary>
+            根据课程id获取相应的视频
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ZXYL.Web.Api.Controllers.VideoController.UploadVideo">
+            <summary>
+            上传视频，可自己调节存放目录
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:ZXYL.Web.Api.Controllers.VideoController.Result">
+            <summary>
+            返回的结果
+            </summary>
+        </member>
+        <member name="P:ZXYL.Web.Api.Controllers.VideoController.Result.Code">
+            <summary>
+            0请求数据错误 1 成功 -1失败
+            </summary>
+        </member>
         <member name="P:ZXYL.Web.Api.LoginViewModel.Name">
             <summary>
             用户名

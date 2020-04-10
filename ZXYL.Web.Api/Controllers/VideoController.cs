@@ -14,12 +14,30 @@ namespace ZXYL.Web.Api.Controllers
     [AllowAnonymous]
     [RoutePrefix("api/Video")]
     public class VideoController : ApiController
-    {
-        //上传视频的密钥
-        private string _secretKey = "123456";
+    {       
+        private string _secretKey = "123456";//上传视频的密钥
 
-        [HttpGet, Route("getVideo")]
-        public Result Getvideo(string id)
+        /// <summary>
+        /// 修改Video中的数据
+        /// </summary>
+        /// <param name="changeVideo"></param>
+        /// <returns></returns>
+        public DataRes<dynamic> PutVideo(Pub_video changeVideo)
+        {
+            var result = new Pub_videoBLL().Update(changeVideo);
+            return new DataRes<dynamic>
+            {
+                data = result ? "修改成功" : "修改失败"
+            };
+        }
+
+        /// <summary>
+        /// 根据课程id获取相应的视频
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
+        //[HttpGet, Route("GetVideoByCourseId")]
+        public Result GetVideoByCourseId(string id)
         {
             int ID;
             if (!int.TryParse(id,out ID)) { return new Result { Code = -1, Message = "error", Data = "参数错误" }; }

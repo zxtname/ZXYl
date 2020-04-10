@@ -18,7 +18,7 @@ namespace WebApi.Jwt
 
         private const string Secret = "ZXYLWEBAPI1234567890";
        
-        public static Tuple<string,DateTime?> GenerateToken(Pub_User user, int expireMinutes = 30)
+        public static Tuple<string,DateTime?> GenerateToken(Pub_User user, int expireMinutes = 100)
         {
             //var symmetricKey = Convert.FromBase64String(Secret);
             byte[] symmetricKey = System.Text.Encoding.UTF8.GetBytes(Secret);
