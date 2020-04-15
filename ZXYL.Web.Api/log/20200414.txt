@@ -1,0 +1,6 @@
+
+2020-04-14 13:57:22,851 [76] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Course/GetHomePageInfo
+ exception:列名 'stopFalg' 无效。
+ contextdata:
+ 

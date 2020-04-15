@@ -89,6 +89,9 @@
     <Compile Include="T4.DapperExt\Pub_video.cs">
       <DependentUpon>Entity.tt</DependentUpon>
     </Compile>
+    <Compile Include="T4.DapperExt\V_PubCourse_Classfy.cs">
+      <DependentUpon>Entity.tt</DependentUpon>
+    </Compile>
     <Compile Include="T4.DapperExt\V_PubDept_Parent.cs">
       <DependentUpon>Entity.tt</DependentUpon>
     </Compile>

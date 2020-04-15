@@ -455,6 +455,41 @@
             </summary>
             <param name="documentPath">The physical path to XML document.</param>
         </member>
+        <member name="M:ZXYL.Web.Api.Controllers.CourseController.GetHomePageInfo">
+            <summary>
+            获取首页信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ZXYL.Web.Api.Controllers.CourseController.GetCourseInfo(ZXYL.Web.Api.PageDataReq)">
+            <summary>
+            根据课程页数获取课程
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ZXYL.Web.Api.Controllers.CourseController.EditCourse(ZXYL.Model.Pub_course)">
+            <summary>
+            修改课程的内容
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ZXYL.Web.Api.Controllers.CourseController.GetUpdateModel``1(``0,``0)">
+            <summary>
+            将model中改变的值赋值到premodel
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="model"></param>
+            <param name="preModel"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ZXYL.Web.Api.Controllers.CourseController.Delete(System.Int64)">
+            <summary>
+            根据id删除课程
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
         <member name="M:ZXYL.Web.Api.Controllers.PubDeptController.GetChildList(System.String)">
             <summary>
             获取子部门列表

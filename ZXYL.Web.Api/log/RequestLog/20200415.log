@@ -1,0 +1,381 @@
+
+2020-04-15 08:05:26,119 [7] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{
+  "pageNum": 1,
+  "pageSize": 12,
+  "field": "id",
+  "order": "desc",
+  "query": {}
+}
+
+2020-04-15 09:15:05,005 [46] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{
+  "pageNum": 1,
+  "pageSize": 12,
+  "field": "id",
+  "order": "desc",
+  "query": {}
+}
+
+2020-04-15 09:32:47,693 [7] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{
+  "pageNum": 1,
+  "pageSize": 12,
+  "field": "id",
+  "order": "desc",
+  "query": {}
+}
+
+2020-04-15 09:35:30,798 [6] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo?pageReq.pageNum=1&pageReq.pageSize=12&pageReq.field=%22id%22&pageReq.order=%22desc%22&pageReq.query=%7B%7D
+token: 
+ data:
+
+2020-04-15 09:36:11,335 [9] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{
+
+  "field": "id",
+  "order": "asc",
+  "query": {}
+}
+
+2020-04-15 10:19:26,421 [7] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:53,320 [16] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":2,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:54,293 [7] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":3,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:54,950 [8] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":4,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:55,349 [7] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":5,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:55,693 [7] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":6,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:55,861 [7] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":7,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:56,014 [9] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":8,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:56,305 [15] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":9,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:56,445 [7] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":10,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:56,573 [7] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":11,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:56,703 [6] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":12,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:56,834 [6] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":13,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:56,980 [19] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":14,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:57,122 [6] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":15,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:57,246 [19] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":16,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:57,410 [6] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":17,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:57,495 [6] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":18,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:57,645 [6] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":19,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:57,770 [6] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":20,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:57,920 [15] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":21,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:58,069 [8] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":22,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:58,227 [6] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":23,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:19:58,371 [9] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":24,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:20:00,030 [6] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":23,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:20:00,510 [15] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":22,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:20:00,838 [16] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":21,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:20:01,064 [18] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":20,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:20:01,264 [9] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":19,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:20:01,439 [6] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":18,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:20:01,616 [16] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":17,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:20:01,798 [14] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":16,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:20:01,970 [16] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":15,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:20:02,151 [15] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":14,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:20:02,315 [18] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":13,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:20:02,490 [15] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":12,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:20:45,470 [8] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":7,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:20:46,412 [8] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":2,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:20:48,020 [7] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:20:57,156 [9] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":2,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:20:57,886 [7] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":3,"pageSize":1,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:21:57,202 [8] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":10,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:22:05,823 [22] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":10,"field":"id","order":"asc","query":{"SL_courseName":"人"}}
+
+2020-04-15 10:22:21,995 [22] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":10,"field":"id","order":"asc","query":{"SL_courseName":"3D"}}
+
+2020-04-15 10:25:03,407 [22] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":10,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:30:40,150 [38] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":10,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:31:24,574 [38] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":10,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:32:18,705 [42] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":10,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:33:59,868 [41] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":10,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:34:48,525 [38] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:36:45,166 [34] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:36:49,606 [41] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":11,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:36:51,264 [34] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":10,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:36:52,790 [38] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":9,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:36:53,422 [38] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":8,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:36:54,006 [41] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":7,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:36:54,884 [40] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":6,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:36:55,956 [41] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":4,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:36:56,586 [48] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:36:57,905 [39] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":2,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:36:58,587 [40] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":3,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:36:59,116 [34] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":4,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:38:46,901 [50] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:38:48,849 [38] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":2,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:38:50,086 [40] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":11,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:38:51,634 [39] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":10,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:38:52,647 [34] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":9,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:38:53,247 [45] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":8,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 10:48:56,045 [39] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-15 16:28:41,444 [19] INFO  RequestLog - http://localhost:51534/api/Course/123
+token: 
+ data:fghj
+
+2020-04-15 16:31:00,083 [20] INFO  RequestLog - http://localhost:51534/api/Course
+token: 
+ data:{
+  "id": 2,
+  "courseName": "药学嘛",
+}
+
+2020-04-15 17:02:31,594 [7] INFO  RequestLog - http://localhost:51534/api/Course
+token: 
+ data:{
+  "id": 2,
+  "courseName": "药学嘛",
+}
+
+2020-04-15 17:12:10,352 [10] INFO  RequestLog - http://localhost:51534/api/Course
+token: 
+ data:{
+
+  "courseName": "药学嘛",
+}
+
+2020-04-15 18:16:28,217 [8] INFO  RequestLog - http://localhost:51534/api/Course
+token: 
+ data:{
+
+  "courseName": "药学嘛",
+}
+
+2020-04-15 18:17:19,374 [8] INFO  RequestLog - http://localhost:51534/api/Course
+token: 
+ data:{
+  "id": 2,
+  "courseName": "压迫学",
+  "imgUrl": "的法国红酒看来",
+  "price": 123,
+
+}
+
+2020-04-15 18:19:04,126 [8] INFO  RequestLog - http://localhost:51534/api/Course
+token: 
+ data:{
+  "id": 2,
+  "courseName": "压迫学",
+  "imgUrl": "的法国红酒看来",
+  "price": 123,
+
+}
+
+2020-04-15 20:12:12,975 [7] INFO  RequestLog - http://localhost:51534/api/Course
+token: 
+ data:{
+  "id": 2,
+  "courseName": "压迫学",
+  "imgUrl": "的法国红酒看来",
+  "price": 124,
+
+}

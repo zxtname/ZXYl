@@ -16,3 +16,4 @@ C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Model\bin\Debug\Dapper.xml
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Model\bin\Debug\Dapper.Contrib.xml
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Model\obj\Debug\ZXYL.Model.dll
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Model\obj\Debug\ZXYL.Model.pdb
+C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Model\obj\Debug\ZXYL.Model.csprojResolveAssemblyReference.cache

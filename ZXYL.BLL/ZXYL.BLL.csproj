@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Pub_courseBLL.cs" />
     <Compile Include="Pub_DepartmentBLL.cs" />
     <Compile Include="Pub_FunctionBLL.cs" />
     <Compile Include="Pub_RoleBLL.cs" />
@@ -76,6 +77,9 @@
       <DependentUpon>Service.tt</DependentUpon>
     </Compile>
     <Compile Include="T4.DapperExt\Pub_videoBLL.cs">
+      <DependentUpon>Service.tt</DependentUpon>
+    </Compile>
+    <Compile Include="T4.DapperExt\V_PubCourse_ClassfyBLL.cs">
       <DependentUpon>Service.tt</DependentUpon>
     </Compile>
     <Compile Include="T4.DapperExt\V_PubDept_ParentBLL.cs">

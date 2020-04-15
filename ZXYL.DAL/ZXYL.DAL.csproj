@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Pub_courseDAL.cs" />
     <Compile Include="Pub_FunctionDAL.cs" />
     <Compile Include="Pub_UserDAL.cs" />
     <Compile Include="T4.DapperExt\BaseDataDapperContrib.cs" />
@@ -82,6 +83,9 @@
       <DependentUpon>Repository.tt</DependentUpon>
     </Compile>
     <Compile Include="T4.DapperExt\Pub_videoDAL.cs">
+      <DependentUpon>Repository.tt</DependentUpon>
+    </Compile>
+    <Compile Include="T4.DapperExt\V_PubCourse_ClassfyDAL.cs">
       <DependentUpon>Repository.tt</DependentUpon>
     </Compile>
     <Compile Include="T4.DapperExt\V_PubDept_ParentDAL.cs">

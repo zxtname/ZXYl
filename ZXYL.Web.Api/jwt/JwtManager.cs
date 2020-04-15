@@ -31,7 +31,7 @@ namespace WebApi.Jwt
                     new Claim("Id",user.Id.ToString()),
                     new Claim("UserCode",user.UserCode),
                    // new Claim(ClaimTypes.UserData,functionsStr),
-                    new Claim("Tel",user.Tel),
+                    //new Claim("Tel",user.Tel),
                     new Claim("DeptCode",user.DeptCode)
                 };
 
