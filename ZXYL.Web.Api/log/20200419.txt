@@ -1,0 +1,141 @@
+
+2020-04-19 10:39:35,535 [44] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Course/EditCourse
+ exception:未将对象引用设置到对象的实例。
+ contextdata:{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"remark":"做小李飞针的传人","creatTime":"2020-04-04 10:28:54","courseAudit":"admin,","stopFlag":true,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药"}
+ 
+
+2020-04-19 10:41:06,683 [24] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Course/EditCourse
+ exception:未将对象引用设置到对象的实例。
+ contextdata:{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"remark":"做小李飞针的传人","creatTime":"2020-04-04 10:28:54","courseAudit":"admin,","stopFlag":true,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药"}
+ 
+
+2020-04-19 10:47:41,548 [43] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Course/EditCourse
+ exception:未将对象引用设置到对象的实例。
+ contextdata:{"id":95,"courseName":"人体（系统）解剖学","imgUrl":"http://localhost:80/image/df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","price":0,"remark":"人体解剖学是一门研究正常人体形态结构的科学，是医学以及医学相关学科的重要基础课程。本课程按医学院校系统解剖学教学大纲进行编写，同时结合3D图像展示攻克教学重点、难点。学生可以通过网络教学，结合讨论、练习和分享报告，立体、系统地学习人体的结构，完成本学科的学习获得学分和证书。","creatTime":"2019-09-22 00:00:00","courseAudit":"admin,","stopFlag":true,"imgName":"df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","isFree":1,"courseCode":"A001","isMadical":1,"classfyName":"临床医学"}
+ 
+
+2020-04-19 11:00:48,510 [41] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Course/EditCourse
+ exception:未将对象引用设置到对象的实例。
+ contextdata:{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"remark":"做小李飞针的传人","creatTime":"2020-04-04 10:28:54","courseAudit":"admin,","stopFlag":true,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药"}
+ 
+
+2020-04-19 11:01:30,048 [28] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Course/EditCourse
+ exception:未将对象引用设置到对象的实例。
+ contextdata:{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"remark":"做小李飞针的传人","creatTime":"2020-04-04 10:28:54","courseAudit":"admin,","stopFlag":true,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药"}
+ 
+
+2020-04-19 11:02:28,867 [43] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Course/EditCourse
+ exception:未将对象引用设置到对象的实例。
+ contextdata:{"id":2,"courseName":"压迫学","imgUrl":"http://img.pmphmooc.com/data/png/1372/2017/10/30/1e3a76f6-4104-4a0d-adc9-eaee67f3cfae.png","price":124,"courseAudit":"admin,","stopFlag":true,"imgName":"d3be862d-35cb-4102-a0e6-24248f32baee.jpg","isFree":0,"courseCode":null,"isMadical":1,"classfyName":"医学检验"}
+ 
+
+2020-04-19 11:03:10,235 [43] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Course/EditCourse
+ exception:未将对象引用设置到对象的实例。
+ contextdata:{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"courseAudit":"admin,","stopFlag":true,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药"}
+ 
+
+2020-04-19 11:06:19,060 [41] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Course/EditCourse
+ exception:处理 HTTP 请求导致了异常。请参见此异常的 "Response" 属性返回的 HTTP 响应，以了解详细信息。
+ contextdata:----------------------------826072926333767896079135
+Content-Disposition: form-data; name=""
+
+10
+----------------------------826072926333767896079135--
+
+ 
+
+2020-04-19 11:06:42,816 [41] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Course/EditCourse
+ exception:处理 HTTP 请求导致了异常。请参见此异常的 "Response" 属性返回的 HTTP 响应，以了解详细信息。
+ contextdata:----------------------------687877360019520437393989
+Content-Disposition: form-data; name=""
+
+10
+----------------------------687877360019520437393989--
+
+ 
+
+2020-04-19 11:08:06,865 [41] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Course/EditCourse
+ exception:处理 HTTP 请求导致了异常。请参见此异常的 "Response" 属性返回的 HTTP 响应，以了解详细信息。
+ contextdata:----------------------------394807674463025094179082
+Content-Disposition: form-data; name="id"
+
+10
+----------------------------394807674463025094179082--
+
+ 
+
+2020-04-19 11:08:37,861 [70] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Course/EditCourse
+ exception:未将对象引用设置到对象的实例。
+ contextdata:
+ 
+
+2020-04-19 11:09:08,038 [12] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Course/EditCourse
+ exception:未将对象引用设置到对象的实例。
+ contextdata:
+ 
+
+2020-04-19 11:25:07,776 [8] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Course/EditCourse
+ exception:未将对象引用设置到对象的实例。
+ contextdata:{"id":95,"courseName":"人体（系统）解剖学","imgUrl":"http://localhost:80/image/df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","price":0,"courseAudit":"admin,","stopFlag":true,"imgName":"df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","isFree":1,"courseCode":"A001","isMadical":1,"classfyName":"临床医学"}
+ 
+
+2020-04-19 11:28:27,536 [5] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Course/EditCourse
+ exception:未将对象引用设置到对象的实例。
+ contextdata:{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"courseAudit":"admin,","stopFlag":false,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药"}
+ 
+
+2020-04-19 11:33:39,859 [5] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Course/EditCourse
+ exception:未将对象引用设置到对象的实例。
+ contextdata:{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"courseAudit":"admin,","stopFlag":true,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药"}
+ 
+
+2020-04-19 11:34:38,632 [12] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Course/EditCourse
+ exception:未将对象引用设置到对象的实例。
+ contextdata:{"id":2,"courseName":"压迫学","imgUrl":"http://img.pmphmooc.com/data/png/1372/2017/10/30/1e3a76f6-4104-4a0d-adc9-eaee67f3cfae.png","price":124,"courseAudit":"admin,","stopFlag":true,"imgName":"d3be862d-35cb-4102-a0e6-24248f32baee.jpg","isFree":0,"courseCode":null,"isMadical":1,"classfyName":"医学检验"}
+ 
+
+2020-04-19 11:35:50,585 [5] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Course/EditCourse
+ exception:未将对象引用设置到对象的实例。
+ contextdata:{"id":95,"courseName":"人体（系统）解剖学","imgUrl":"http://localhost:80/image/df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","price":0,"courseAudit":"admin,","stopFlag":true}
+ 
+
+2020-04-19 11:42:26,359 [5] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Course/EditCourse
+ exception:未将对象引用设置到对象的实例。
+ contextdata:{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"remark":"做小李飞针的传人","creatTime":"2020-04-04 10:28:54","courseAudit":"admin,","stopFlag":true,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药"}
+ 
+
+2020-04-19 11:46:31,760 [5] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Course/EditCourse
+ exception:未将对象引用设置到对象的实例。
+ contextdata:{"id":2,"courseName":"压迫学","imgUrl":"http://img.pmphmooc.com/data/png/1372/2017/10/30/1e3a76f6-4104-4a0d-adc9-eaee67f3cfae.png","price":124,"remark":"hahah ","creatTime":"2020-04-16 16:27:22","courseAudit":"admin,","stopFlag":true,"imgName":"d3be862d-35cb-4102-a0e6-24248f32baee.jpg","isFree":0,"courseCode":null,"isMadical":1,"classfyName":"医学检验"}
+ 
+
+2020-04-19 11:47:40,276 [34] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Course/EditCourse
+ exception:未将对象引用设置到对象的实例。
+ contextdata:{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"remark":"做小李飞针的传人","creatTime":"2020-04-04 10:28:54","courseAudit":"admin,","stopFlag":true,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药"}
+ 
+
+2020-04-19 11:50:23,489 [34] ERROR ZXYL.Web.Api.WebApiExceptionAttribute - 
+ url:/api/Course/EditCourse
+ exception:未将对象引用设置到对象的实例。
+ contextdata:{"id":0,"courseName":"压迫学","imgUrl":"http://img.pmphmooc.com/data/png/1372/2017/10/30/1e3a76f6-4104-4a0d-adc9-eaee67f3cfae.png","price":124,"courseAudit":"admin,","stopFlag":true,"imgName":"d3be862d-35cb-4102-a0e6-24248f32baee.jpg","isFree":0,"courseCode":null,"isMadical":1,"classfyName":"医学检验"}
+ 

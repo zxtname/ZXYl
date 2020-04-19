@@ -78,6 +78,7 @@ C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\ZXYL.Web.Api.dll.config
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\ZXYL.Web.Api.dll
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\ZXYL.Web.Api.pdb
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\Antlr3.Runtime.dll
+C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\log4net.dll
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\Microsoft.IdentityModel.Logging.dll
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\Microsoft.IdentityModel.Tokens.dll
@@ -101,7 +102,6 @@ C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\ZXYL.BLL.dll
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\ZXYL.Common.dll
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\ZXYL.Model.dll
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\ZXYL.DAL.dll
-C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\log4net.dll
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\AutoMapper.dll
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\TinyMapper.dll
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\Dapper.Contrib.dll
@@ -110,6 +110,7 @@ C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\ZXYL.DBUtility.dll
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\ZXYL.BLL.pdb
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\ZXYL.Common.pdb
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\ZXYL.Model.pdb
+C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\log4net.xml
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\Microsoft.IdentityModel.JsonWebTokens.xml
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\Microsoft.IdentityModel.Logging.xml
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\Microsoft.IdentityModel.Tokens.xml
@@ -127,7 +128,6 @@ C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\System.Web.WebPages.Deployment
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\System.Web.WebPages.Razor.xml
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\Antlr3.Runtime.pdb
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\ZXYL.DAL.pdb
-C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\log4net.xml
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\AutoMapper.xml
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\Dapper.Contrib.xml
 C:\Users\zxt\Desktop\网站\ZXYl\ZXYL.Web.Api\bin\Dapper.xml

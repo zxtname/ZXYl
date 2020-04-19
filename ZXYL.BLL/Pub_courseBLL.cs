@@ -13,11 +13,10 @@ namespace ZXYL.BLL
         Pub_courseDAL dal = new Pub_courseDAL();
         public bool ChangeSotpStatus(string where, object pms)
         {
-
-            return dal.ChangeSotpStatus(where, pms);
+            return dal.ChangeSotpStatus(where);
         }
         public Tuple<bool, string> Edit(Pub_course model)
-        {           
+        {
             var r = Update(model);
             if (!r)
             {
@@ -26,6 +25,15 @@ namespace ZXYL.BLL
 
             return Tuple.Create(true, "保存成功");
         }
-       
+        public List<Pub_course> GetMedicalHomeInfo(int ismedical)
+        {
+            return dal.GetMedicalHomeInfo(ismedical);
+        }
+        public bool CourseClickCountAdd(int courseId)
+        {
+            return dal.CourseClickCountAdd(courseId);
+        }
+
+
     }
 }

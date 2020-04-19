@@ -1,0 +1,60 @@
+
+2020-04-16 09:22:38,474 [25] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{
+  "pageNum": 1,
+  "pageSize": 8,
+  "field": "price",
+  "order": "asc",
+  "query": {}
+}
+
+2020-04-16 09:24:01,952 [26] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{
+  "pageNum": 1,
+  "pageSize": 8,
+  "field": "price",
+  "order": "asc",
+  "query": {SEB_ismadical=1}
+}
+
+2020-04-16 09:24:14,051 [25] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{
+  "pageNum": 1,
+  "pageSize": 8,
+  "field": "price",
+  "order": "asc",
+  "query": {SEB_ismadical:1}
+}
+
+2020-04-16 09:26:11,555 [22] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{
+  "pageNum": 1,
+  "pageSize": 8,
+  "field": "price",
+  "order": "asc",
+  "query": {SEB_ismadical:0}
+}
+
+2020-04-16 17:09:54,814 [6] INFO  RequestLog - http://localhost:51534/api/Course?ismedical=1
+token: 
+ data:
+
+2020-04-16 17:28:08,628 [7] INFO  RequestLog - http://localhost:51534/api/Course?ismedical=0
+token: 
+ data:
+
+2020-04-16 17:31:13,843 [8] INFO  RequestLog - http://localhost:51534/api/Course?ismedical=1
+token: 
+ data:
+
+2020-04-16 17:38:03,561 [8] INFO  RequestLog - http://localhost:51534/api/Course/GetMedicalHomeInfo?ismedical=1
+token: 
+ data:
+
+2020-04-16 17:38:58,245 [8] INFO  RequestLog - http://localhost:51534/api/Course/GetMedicalHomeInfo?ismedical=0
+token: 
+ data:

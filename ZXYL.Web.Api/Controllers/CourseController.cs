@@ -14,13 +14,14 @@ namespace ZXYL.Web.Api.Controllers
     [RoutePrefix("api/Course")]
     public class CourseController : BaseController
     {
+        private string preImgUrl = "http://localhost:80/image/";
         private Pub_courseBLL courseBll = new Pub_courseBLL();
         private V_PubCourse_ClassfyBLL CourseClassfyBLL = new V_PubCourse_ClassfyBLL();
         /// <summary>
         /// 获取首页信息
         /// </summary>
         /// <returns></returns>
-        //[AllowAnonymous]
+        [AllowAnonymous]
         [HttpGet, Route("GetHomePageInfo")]
         public DataRes<dynamic> GetHomePageInfo()
         {
@@ -40,15 +41,40 @@ namespace ZXYL.Web.Api.Controllers
             return result;
         }
         /// <summary>
-        /// 根据课程页数获取课程
+        /// 根据课程页数获取课程不包括停用的
         /// </summary>
         /// <returns></returns>
-        //[AllowAnonymous]
+        [AllowAnonymous]
         [HttpPost, Route("GetCourseInfo")]
         public PageDateRes<Pub_course> GetCourseInfo([FromBody]PageDataReq pageReq)
         {
-            string preImgUrl = "http://localhost:80/image/";
-            var whereStr = GetWhereStr();
+
+            var whereStr = GetWhereStr(1);
+            if (whereStr == "-1")
+            {
+                return new PageDateRes<Pub_course>() { code = ResCode.Error, msg = "查询参数有误！", data = null };
+            }
+            var courses = courseBll.GetPage(whereStr, (pageReq.field + " " + pageReq.order), pageReq.pageNum, pageReq.pageSize);
+            courses.data.ForEach(p =>
+            {
+                if (p.imgUrl == null)
+                {
+                    p.imgUrl = preImgUrl + p.imgName;
+                }
+
+            });
+            return courses;
+        }
+        /// <summary>
+        /// 根据课程页数获取课程，包括括停用的
+        /// </summary>
+        /// <returns></returns>
+        [AllowAnonymous]
+        [HttpPost, Route("GetCourseInfoAdmin")]
+        public PageDateRes<Pub_course> GetCourseInfoAdmin([FromBody]PageDataReq pageReq)
+        {
+
+            var whereStr = GetWhereStr(2);
             if (whereStr == "-1")
             {
                 return new PageDateRes<Pub_course>() { code = ResCode.Error, msg = "查询参数有误！", data = null };
@@ -70,7 +96,9 @@ namespace ZXYL.Web.Api.Controllers
         /// </summary>
         /// <param name="model"></param>
         /// <returns></returns>
-        public DataRes<bool> EditCourse(Pub_course model)
+        [AllowAnonymous]
+        [HttpPost,Route("EditCourse")]
+        public DataRes<bool> EditCourse([FromBody]Pub_course model)
         {
             DataRes<bool> res = new DataRes<bool>() { code = ResCode.Success, data = true };
             if (model.id == 0)
@@ -80,19 +108,10 @@ namespace ZXYL.Web.Api.Controllers
                 res.msg = "参数错误";
                 return res;
             }
-            var preModel = courseBll.Get(model.id);
+            var preModel = courseBll.Get(model.id);         
             //用来遍历model
             preModel = GetUpdateModel<Pub_course>(model, preModel);
-            //List<System.Reflection.PropertyInfo> properties = model.GetType().GetProperties(System.Reflection.BindingFlags.Instance | System.Reflection.BindingFlags.Public).ToList();
-            //properties.ForEach(p =>
-            //{
-            //    var mValue = p.GetValue(model);
-            //    if (mValue != null)
-            //    {
-            //        p.SetValue(preModel, mValue);
-            //    }
 
-            //});
             var r = courseBll.Edit(preModel);
             if (!r.Item1)
             {
@@ -112,7 +131,7 @@ namespace ZXYL.Web.Api.Controllers
         /// <param name="preModel"></param>
         /// <returns></returns>
         private dynamic GetUpdateModel<T>(T model, T preModel)
-        {            
+        {
             List<System.Reflection.PropertyInfo> properties = model.GetType().GetProperties(System.Reflection.BindingFlags.Instance | System.Reflection.BindingFlags.Public).ToList();
             properties.ForEach(p =>
             {
@@ -126,9 +145,10 @@ namespace ZXYL.Web.Api.Controllers
             return preModel;
         }
 
-        private string GetWhereStr()
+        private string GetWhereStr(int i)
         {
             StringBuilder sb = new StringBuilder(" 1=1 ");
+            if (i==1)            
             sb.Append(" and StopFlag=0 ");
             var query = this.ControllerContext.GetWhereStr();
             if (query == "-1")
@@ -141,11 +161,30 @@ namespace ZXYL.Web.Api.Controllers
         }
         #endregion
 
-
-        // PUT: api/Course/5
-        public void Put(int id, [FromBody]string value)
+        /// <summary>
+        /// 获取首页中医学专区和非医学专区的数据
+        /// </summary>
+        /// <param name="ismedical"></param>
+        /// <returns></returns>
+        [HttpGet, Route("GetMedicalHomeInfo")]
+        public DataRes<dynamic> GetMedicalHomeInfo(int ismedical)
         {
+            var res = new DataRes<dynamic>();
+            List<Pub_course> courses = courseBll.GetMedicalHomeInfo(ismedical);
+            if (courses.Count == 0)
+            {
+                res.code = ResCode.Error;
+                res.msg = "查询数据为空";
+                res.data = null;
+                return res;
 
+            }
+            courses.ForEach(p =>
+            {
+                if (string.IsNullOrWhiteSpace(p.imgUrl)) { p.imgUrl = preImgUrl + p.imgName; };
+            });
+            res.data = courses;
+            return res;
         }
 
         /// <summary>
@@ -168,6 +207,21 @@ namespace ZXYL.Web.Api.Controllers
             }
 
             return res;
+        }
+        /// <summary>
+        /// 测试用例
+        /// </summary>
+        /// <param name="model"></param>
+        /// <returns></returns>
+        [AllowAnonymous]
+        [HttpPost,Route("test")]
+        public DataRes<dynamic> test(Pub_course model)
+        {
+            //courseBll.CourseClickCountAdd(model.id);
+            return new DataRes<dynamic>
+            {
+                data = courseBll.CourseClickCountAdd(model.id)
+            };
         }
 
     }

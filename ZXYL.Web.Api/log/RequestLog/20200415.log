@@ -379,3 +379,23 @@ token:
   "price": 124,
 
 }
+
+2020-04-15 23:28:23,304 [8] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{
+  "pageNum": 1,
+  "pageSize": 10,
+  "field": "id",
+  "order": "asc",
+  "query": {}
+}
+
+2020-04-15 23:32:09,087 [8] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{
+  "pageNum": 1,
+  "pageSize": 4,
+  "field": "id",
+  "order": "asc",
+  "query": {}
+}

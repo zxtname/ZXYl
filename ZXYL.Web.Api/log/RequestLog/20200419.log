@@ -1,0 +1,643 @@
+
+2020-04-19 09:01:58,852 [8] INFO  RequestLog - http://localhost:51534/api/Course/test
+token: 
+ data:{
+  "id": 135,
+}
+
+2020-04-19 09:42:46,721 [7] INFO  RequestLog - http://localhost:51534/api/Course/test
+token: 
+ data:{
+  "id": 135,
+}
+
+2020-04-19 09:42:50,142 [5] INFO  RequestLog - http://localhost:51534/api/Course/test
+token: 
+ data:{
+  "id": 135,
+}
+
+2020-04-19 09:42:52,355 [8] INFO  RequestLog - http://localhost:51534/api/Course/test
+token: 
+ data:{
+  "id": 135,
+}
+
+2020-04-19 10:19:06,859 [11] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 10:19:46,405 [11] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 10:20:04,221 [7] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":2,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 10:20:04,992 [7] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":3,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 10:20:06,390 [11] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":4,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 10:20:06,859 [13] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":5,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 10:20:07,221 [11] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":7,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 10:20:08,096 [10] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 10:20:09,419 [11] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":2,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 10:20:10,218 [10] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":3,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 10:20:10,940 [14] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 10:26:12,167 [11] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 10:36:48,529 [25] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 10:38:15,004 [33] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 10:38:43,123 [24] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 10:38:47,422 [27] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 10:38:53,123 [41] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"remark":"做小李飞针的传人","creatTime":"2020-04-04 10:28:54","courseAudit":"admin,","stopFlag":true,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药"}
+
+2020-04-19 10:40:52,258 [44] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 10:40:54,861 [43] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"remark":"做小李飞针的传人","creatTime":"2020-04-04 10:28:54","courseAudit":"admin,","stopFlag":true,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药"}
+
+2020-04-19 10:43:51,436 [54] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 10:43:56,620 [40] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"params":{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"remark":"做小李飞针的传人","creatTime":"2020-04-04 10:28:54","courseAudit":"admin,","stopFlag":true,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药"}}
+
+2020-04-19 10:45:02,187 [54] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 10:45:03,524 [48] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"params":{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"remark":"做小李飞针的传人","creatTime":"2020-04-04 10:28:54","courseAudit":"admin,","stopFlag":true,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药"}}
+
+2020-04-19 10:45:32,169 [43] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"params":{"id":2,"courseName":"压迫学","imgUrl":"http://img.pmphmooc.com/data/png/1372/2017/10/30/1e3a76f6-4104-4a0d-adc9-eaee67f3cfae.png","price":124,"remark":"hahah ","creatTime":"2020-04-16 16:27:22","courseAudit":"admin,","stopFlag":true,"imgName":"d3be862d-35cb-4102-a0e6-24248f32baee.jpg","isFree":0,"courseCode":null,"isMadical":1,"classfyName":"医学检验"}}
+
+2020-04-19 10:46:47,443 [41] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 10:46:48,889 [43] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":95,"courseName":"人体（系统）解剖学","imgUrl":"http://localhost:80/image/df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","price":0,"remark":"人体解剖学是一门研究正常人体形态结构的科学，是医学以及医学相关学科的重要基础课程。本课程按医学院校系统解剖学教学大纲进行编写，同时结合3D图像展示攻克教学重点、难点。学生可以通过网络教学，结合讨论、练习和分享报告，立体、系统地学习人体的结构，完成本学科的学习获得学分和证书。","creatTime":"2019-09-22 00:00:00","courseAudit":"admin,","stopFlag":true,"imgName":"df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","isFree":1,"courseCode":"A001","isMadical":1,"classfyName":"临床医学"}
+
+2020-04-19 10:47:53,080 [43] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 10:47:56,653 [35] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"remark":"做小李飞针的传人","creatTime":"2020-04-04 10:28:54","courseAudit":"admin,","stopFlag":true,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药"}
+
+2020-04-19 11:00:55,720 [34] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:00:58,987 [46] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"remark":"做小李飞针的传人","creatTime":"2020-04-04 10:28:54","courseAudit":"admin,","stopFlag":true,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药"}
+
+2020-04-19 11:01:44,501 [29] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:01:54,393 [29] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:01:56,552 [43] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":2,"courseName":"压迫学","imgUrl":"http://img.pmphmooc.com/data/png/1372/2017/10/30/1e3a76f6-4104-4a0d-adc9-eaee67f3cfae.png","price":124,"courseAudit":"admin,","stopFlag":true,"imgName":"d3be862d-35cb-4102-a0e6-24248f32baee.jpg","isFree":0,"courseCode":null,"isMadical":1,"classfyName":"医学检验"}
+
+2020-04-19 11:02:33,985 [18] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:02:36,891 [19] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"courseAudit":"admin,","stopFlag":true,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药"}
+
+2020-04-19 11:06:18,914 [12] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:----------------------------826072926333767896079135
+Content-Disposition: form-data; name=""
+
+10
+----------------------------826072926333767896079135--
+
+
+2020-04-19 11:06:42,812 [12] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:----------------------------687877360019520437393989
+Content-Disposition: form-data; name=""
+
+10
+----------------------------687877360019520437393989--
+
+
+2020-04-19 11:08:06,860 [13] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:----------------------------394807674463025094179082
+Content-Disposition: form-data; name="id"
+
+10
+----------------------------394807674463025094179082--
+
+
+2020-04-19 11:08:21,073 [41] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:
+
+2020-04-19 11:08:51,233 [12] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse?id=10
+token: 
+ data:
+
+2020-04-19 11:20:51,475 [89] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse?id=10
+token: 
+ data:
+
+2020-04-19 11:23:04,278 [7] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:23:07,741 [7] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":2,"courseName":"压迫学"}
+
+2020-04-19 11:23:21,230 [8] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":2,"courseName":"压迫学"}
+
+2020-04-19 11:23:51,296 [11] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:23:53,046 [11] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":95,"courseName":"人体（系统）解剖学","imgUrl":"http://localhost:80/image/df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","price":0,"courseAudit":"admin,","stopFlag":true,"imgName":"df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","isFree":1,"courseCode":"A001","isMadical":1,"classfyName":"临床医学"}
+
+2020-04-19 11:25:13,389 [17] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:25:17,011 [15] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"courseAudit":"admin,","stopFlag":true,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药"}
+
+2020-04-19 11:27:04,808 [6] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"courseAudit":"admin,","stopFlag":false,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药"}
+
+2020-04-19 11:28:28,902 [15] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:28:31,747 [16] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":95,"courseName":"人体（系统）解剖学","imgUrl":"http://localhost:80/image/df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","price":0,"courseAudit":"admin,","stopFlag":true,"imgName":"df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","isFree":1,"courseCode":"A001","isMadical":1,"classfyName":"临床医学"}
+
+2020-04-19 11:32:28,239 [9] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:32:30,537 [9] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":1,"courseName":"针灸学"}
+
+2020-04-19 11:33:24,865 [10] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:33:26,376 [9] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"courseAudit":"admin,","stopFlag":true,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药"}
+
+2020-04-19 11:34:15,024 [10] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:34:16,092 [9] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":2,"courseName":"压迫学","imgUrl":"http://img.pmphmooc.com/data/png/1372/2017/10/30/1e3a76f6-4104-4a0d-adc9-eaee67f3cfae.png","price":124,"courseAudit":"admin,","stopFlag":true,"imgName":"d3be862d-35cb-4102-a0e6-24248f32baee.jpg","isFree":0,"courseCode":null,"isMadical":1,"classfyName":"医学检验"}
+
+2020-04-19 11:35:15,163 [6] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:35:16,324 [9] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":95,"courseName":"人体（系统）解剖学","imgUrl":"http://localhost:80/image/df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","price":0,"courseAudit":"admin,","stopFlag":true}
+
+2020-04-19 11:35:56,400 [24] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:35:58,861 [5] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg"}
+
+2020-04-19 11:37:02,437 [25] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:37:03,638 [31] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":95,"courseName":"人体（系统）解剖学","imgUrl":"http://localhost:80/image/df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","courseAudit":"admin,"}
+
+2020-04-19 11:38:36,178 [31] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:38:37,359 [29] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":96,"courseName":"药理学","imgUrl":"http://localhost:80/image/36513639-2c61-4aa6-b894-2afde2918cb4.jpg","price":1,"courseAudit":"admin,"}
+
+2020-04-19 11:39:50,314 [5] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":95,"courseName":"人体（系统）解剖学","imgUrl":"http://localhost:80/image/df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","price":0,"courseAudit":"admin,"}
+
+2020-04-19 11:41:08,135 [5] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:41:09,586 [5] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":0,"courseName":"string","imgUrl":"string","price":0,"remark":"string","creatTime":"2020-04-19T02:41:17.935Z","courseAudit":"string","stopFlag":0,"imgName":"string","isFree":0,"courseCode":"string","isMadical":0,"classfyName":"string"}
+
+2020-04-19 11:42:09,206 [42] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:42:10,769 [42] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"remark":"做小李飞针的传人","creatTime":"2020-04-04 10:28:54","courseAudit":"admin,","stopFlag":true,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药"}
+
+2020-04-19 11:45:01,945 [46] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:45:02,808 [42] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":2,"courseName":"压迫学","imgUrl":"http://img.pmphmooc.com/data/png/1372/2017/10/30/1e3a76f6-4104-4a0d-adc9-eaee67f3cfae.png","price":124,"remark":"hahah ","creatTime":"2020-04-16 16:27:22","courseAudit":"admin,","stopFlag":true,"imgName":"d3be862d-35cb-4102-a0e6-24248f32baee.jpg","isFree":0,"courseCode":null,"isMadical":1,"classfyName":"医学检验"}
+
+2020-04-19 11:46:41,523 [45] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:46:42,914 [49] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"remark":"做小李飞针的传人","creatTime":"2020-04-04 10:28:54","courseAudit":"admin,","stopFlag":true,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药"}
+
+2020-04-19 11:47:41,718 [34] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:47:42,875 [55] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":0,"courseName":"压迫学","imgUrl":"http://img.pmphmooc.com/data/png/1372/2017/10/30/1e3a76f6-4104-4a0d-adc9-eaee67f3cfae.png","price":124,"courseAudit":"admin,","stopFlag":0,"imgName":"string","isFree":0,"courseCode":"string","isMadical":0,"classfyName":"string"}
+
+2020-04-19 11:49:40,891 [56] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:49:51,185 [56] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:49:52,735 [34] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":0,"courseName":"压迫学","imgUrl":"http://img.pmphmooc.com/data/png/1372/2017/10/30/1e3a76f6-4104-4a0d-adc9-eaee67f3cfae.png","price":124,"courseAudit":"admin,","stopFlag":true,"imgName":"d3be862d-35cb-4102-a0e6-24248f32baee.jpg","isFree":0,"courseCode":null,"isMadical":1,"classfyName":"医学检验"}
+
+2020-04-19 11:50:29,088 [63] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:50:30,343 [63] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":0,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"courseAudit":"admin,","imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药"}
+
+2020-04-19 11:57:36,310 [5] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:59:22,794 [5] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:59:39,897 [34] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 11:59:41,226 [5] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":0,"courseName":"病理学","imgUrl":"http://localhost:80/image/63774a40-0989-4d70-b95c-9451971b23be.jpg","price":2,"courseAudit":"admin,","imgName":"63774a40-0989-4d70-b95c-9451971b23be.jpg","isFree":1,"courseCode":"A003","isMadical":1,"classfyName":"临床医学"}
+
+2020-04-19 12:03:55,845 [70] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 12:09:16,108 [6] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 12:09:33,427 [73] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 12:09:34,701 [6] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":0,"courseName":"人体（系统）解剖学","imgUrl":"http://localhost:80/image/df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","price":0,"courseAudit":"admin,","stopFlag":1,"imgName":"df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","isFree":1,"courseCode":"A001","isMadical":1,"classfyName":"临床医学"}
+
+2020-04-19 12:10:08,312 [70] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 12:21:31,008 [72] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 12:21:33,896 [79] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":2,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 12:21:35,091 [79] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":3,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 12:22:06,821 [85] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":0,"courseName":"妇产科护理学","imgUrl":"http://localhost:80/image/f5f21e9f-f2a3-440c-9ef7-1ef586bef5c8.jpg","price":2,"courseAudit":"admin,","stopFlag":0,"imgName":"f5f21e9f-f2a3-440c-9ef7-1ef586bef5c8.jpg","isFree":1,"courseCode":"B001","isMadical":0,"classfyName":"护理"}
+
+2020-04-19 12:30:04,316 [72] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 12:30:14,595 [73] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":2,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 12:30:15,887 [83] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 12:30:17,843 [79] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":0,"courseName":"人体（系统）解剖学","imgUrl":"http://localhost:80/image/df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","price":0,"courseAudit":"admin,","stopFlag":1,"imgName":"df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","isFree":1,"courseCode":"A001","isMadical":1,"classfyName":"临床医学"}
+
+2020-04-19 12:30:37,509 [72] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 12:31:17,981 [71] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":0,"courseName":"人体（系统）解剖学","imgUrl":"http://localhost:80/image/df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","price":0,"courseAudit":"admin,","stopFlag":1,"imgName":"df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","isFree":1,"courseCode":"A001","isMadical":1,"classfyName":"临床医学"}
+
+2020-04-19 12:32:00,133 [83] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":0,"courseName":"压迫学","imgUrl":"http://img.pmphmooc.com/data/png/1372/2017/10/30/1e3a76f6-4104-4a0d-adc9-eaee67f3cfae.png","price":124,"courseAudit":"admin,","stopFlag":1,"imgName":"d3be862d-35cb-4102-a0e6-24248f32baee.jpg","isFree":0,"courseCode":null,"isMadical":1,"classfyName":"医学检验"}
+
+2020-04-19 12:32:38,500 [72] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 12:32:45,744 [69] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":96,"courseName":"药理学","imgUrl":"http://localhost:80/image/36513639-2c61-4aa6-b894-2afde2918cb4.jpg","price":1,"courseAudit":"admin,","stopFlag":1,"imgName":"36513639-2c61-4aa6-b894-2afde2918cb4.jpg","isFree":1,"courseCode":"A002","isMadical":1,"classfyName":"临床医学"}
+
+2020-04-19 12:32:56,620 [71] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 12:33:05,049 [69] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":97,"courseName":"病理学","imgUrl":"http://localhost:80/image/63774a40-0989-4d70-b95c-9451971b23be.jpg","price":2,"courseAudit":"admin,","stopFlag":1,"imgName":"63774a40-0989-4d70-b95c-9451971b23be.jpg","isFree":1,"courseCode":"A003","isMadical":1,"classfyName":"临床医学"}
+
+2020-04-19 12:33:52,131 [63] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":95,"courseName":"人体（系统）解剖学","imgUrl":"http://localhost:80/image/df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","price":0,"courseAudit":"admin,","stopFlag":1,"imgName":"df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","isFree":1,"courseCode":"A001","isMadical":1,"classfyName":"临床医学"}
+
+2020-04-19 12:34:24,893 [74] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfo
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:07:14,854 [10] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:07:20,345 [10] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":95,"courseName":"人体（系统）解剖学","imgUrl":"http://localhost:80/image/df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","price":0,"courseAudit":"admin,","stopFlag":0,"imgName":"df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","isFree":1,"courseCode":"A001","isMadical":1,"classfyName":"临床医学"}
+
+2020-04-19 15:07:25,021 [10] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:07:26,939 [10] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":96,"courseName":"药理学","imgUrl":"http://localhost:80/image/36513639-2c61-4aa6-b894-2afde2918cb4.jpg","price":1,"courseAudit":"admin,","stopFlag":0,"imgName":"36513639-2c61-4aa6-b894-2afde2918cb4.jpg","isFree":1,"courseCode":"A002","isMadical":1,"classfyName":"临床医学"}
+
+2020-04-19 15:07:30,192 [10] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:07:32,301 [6] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":97,"courseName":"病理学","imgUrl":"http://localhost:80/image/63774a40-0989-4d70-b95c-9451971b23be.jpg","price":2,"courseAudit":"admin,","stopFlag":0,"imgName":"63774a40-0989-4d70-b95c-9451971b23be.jpg","isFree":1,"courseCode":"A003","isMadical":1,"classfyName":"临床医学"}
+
+2020-04-19 15:07:35,400 [12] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:08:54,589 [10] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:08:55,880 [10] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"remark":"做小李飞针的传人","creatTime":"2020-04-04 10:28:54","courseAudit":"admin,","stopFlag":1,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药","stopFlag==1":true}
+
+2020-04-19 15:09:14,419 [8] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:12:57,069 [9] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":2,"courseName":"压迫学","imgUrl":"http://img.pmphmooc.com/data/png/1372/2017/10/30/1e3a76f6-4104-4a0d-adc9-eaee67f3cfae.png","price":124,"remark":"hahah ","creatTime":"2020-04-16 16:27:22","courseAudit":"admin,","stopFlag":1,"imgName":"d3be862d-35cb-4102-a0e6-24248f32baee.jpg","isFree":0,"courseCode":null,"isMadical":1,"classfyName":"医学检验","stopFlag==1":true}
+
+2020-04-19 15:14:04,610 [12] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":95,"courseName":"人体（系统）解剖学","imgUrl":"http://localhost:80/image/df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","price":0,"remark":"人体解剖学是一门研究正常人体形态结构的科学，是医学以及医学相关学科的重要基础课程。本课程按医学院校系统解剖学教学大纲进行编写，同时结合3D图像展示攻克教学重点、难点。学生可以通过网络教学，结合讨论、练习和分享报告，立体、系统地学习人体的结构，完成本学科的学习获得学分和证书。","creatTime":"2019-09-22 00:00:00","courseAudit":"admin,","stopFlag":1,"imgName":"df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","isFree":1,"courseCode":"A001","isMadical":1,"classfyName":"临床医学","stopFlag==1":true}
+
+2020-04-19 15:15:09,972 [5] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:15:19,316 [6] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":1,"courseName":"针灸学","imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586582030052&di=bfe492c46bb7222daca868a8cb23694a&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FW02%2F50%2F1b%2F501b1245457a855f3bd385fc9ad318b6_b.jpg","price":100,"remark":"做小李飞针的传人","creatTime":"2020-04-04 10:28:54","courseAudit":"admin,","stopFlag":1,"imgName":"2F501b1245457a855f3bd385fc9ad318b6_b.jpg","isFree":1,"courseCode":"Z002","isMadical":1,"classfyName":"中医中药","stopFlag==1":false}
+
+2020-04-19 15:16:21,619 [19] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":95,"courseName":"人体（系统）解剖学","imgUrl":"http://localhost:80/image/df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","price":0,"remark":"人体解剖学是一门研究正常人体形态结构的科学，是医学以及医学相关学科的重要基础课程。本课程按医学院校系统解剖学教学大纲进行编写，同时结合3D图像展示攻克教学重点、难点。学生可以通过网络教学，结合讨论、练习和分享报告，立体、系统地学习人体的结构，完成本学科的学习获得学分和证书。","creatTime":"2019-09-22 00:00:00","courseAudit":"admin,","stopFlag":1,"imgName":"df13c764-a74c-4e5a-9e50-05c6d5c30fa2.jpg","isFree":1,"courseCode":"A001","isMadical":1,"classfyName":"临床医学","stopFlag==1":false}
+
+2020-04-19 15:16:30,689 [21] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:16:32,190 [22] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":96,"courseName":"药理学","imgUrl":"http://localhost:80/image/36513639-2c61-4aa6-b894-2afde2918cb4.jpg","price":1,"remark":"慕课药理学课程主要按照医学院校药理学教学大纲和教学内容进行编写，每一章节又针对重点关注、难点知识和热点进行重点讲述。学生可以通过网络教学，系统掌握药理学的重点知识点，结合讨论、测试题、思考题和报告等，完成本学科的学习并获得学分和证书。本课程设置采用知识性和趣味性结合的方式，运用录像、动画演示、示意图、列表总结、知识树、临床实例、围绕问题探讨等多种方法，让学员的学习变得轻松有趣，并帮助学员深刻了解药理学的研究方法和重点难点知识。","creatTime":"2019-09-23 00:00:00","courseAudit":"admin,","stopFlag":0,"imgName":"36513639-2c61-4aa6-b894-2afde2918cb4.jpg","isFree":1,"courseCode":"A002","isMadical":1,"classfyName":"临床医学","stopFlag==1":true}
+
+2020-04-19 15:26:07,284 [6] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:26:14,024 [9] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":"护理"}}
+
+2020-04-19 15:26:18,790 [9] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":99,"courseName":"外科护理学","imgUrl":"http://localhost:80/image/0cd2fcfe-9efa-4ecf-b259-dc2964516e4e.jpg","price":1,"remark":"外科护理学是护理学的重要组成部分，是阐述和研究对外科病人进行整体护理的一门临床护理学科。 外科护理学是护理专业学生必修的一门专业核心课程，它以创伤、感染、肿瘤、畸形、梗阻、功能障碍等外科疾病病人为研究对象；在现代医学模式和现代护理观的指导下，以人的健康为中心，应用护理程序向病人提供整体护理，以达到促进健康，预防疾病，协助康复，减轻痛苦的目的。 本课程基于有效教学的原则，为您提供外科护理学的相关知识，助您成为一名合格的外科护士。 本课程兼顾国家护士执业考试大纲及学生可持续发展的需要，突出职业能力培养。","creatTime":"2019-09-26 00:00:00","courseAudit":"admin,","stopFlag":1,"imgName":"0cd2fcfe-9efa-4ecf-b259-dc2964516e4e.jpg","isFree":1,"courseCode":"A005","isMadical":1,"classfyName":"护理","stopFlag==1":true}
+
+2020-04-19 15:26:33,606 [8] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:26:38,068 [5] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":"护理"}}
+
+2020-04-19 15:29:00,422 [9] INFO  RequestLog - http://localhost:51534/api/Course/EditCourse
+token: 
+ data:{"id":99,"courseName":"外科护理学","imgUrl":"http://localhost:80/image/0cd2fcfe-9efa-4ecf-b259-dc2964516e4e.jpg","price":1,"remark":"外科护理学是护理学的重要组成部分，是阐述和研究对外科病人进行整体护理的一门临床护理学科。 外科护理学是护理专业学生必修的一门专业核心课程，它以创伤、感染、肿瘤、畸形、梗阻、功能障碍等外科疾病病人为研究对象；在现代医学模式和现代护理观的指导下，以人的健康为中心，应用护理程序向病人提供整体护理，以达到促进健康，预防疾病，协助康复，减轻痛苦的目的。 本课程基于有效教学的原则，为您提供外科护理学的相关知识，助您成为一名合格的外科护士。 本课程兼顾国家护士执业考试大纲及学生可持续发展的需要，突出职业能力培养。","creatTime":"2019-09-26 00:00:00","courseAudit":"admin,","stopFlag":0,"imgName":"0cd2fcfe-9efa-4ecf-b259-dc2964516e4e.jpg","isFree":1,"courseCode":"A005","isMadical":1,"classfyName":"护理","stopFlag==1":false}
+
+2020-04-19 15:29:08,609 [16] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:32:27,338 [9] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:32:31,752 [8] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":2,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:32:33,488 [9] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":3,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:32:34,823 [8] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":4,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:40:26,486 [7] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:56:21,703 [41] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:56:41,591 [42] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":2,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:56:42,606 [43] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":3,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:56:44,067 [37] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":5,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:56:45,989 [41] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:57:00,092 [41] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:57:37,554 [30] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:58:17,168 [42] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:59:04,521 [30] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 15:59:22,228 [45] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 16:02:29,238 [42] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 16:02:56,959 [51] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 16:03:01,655 [42] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 16:06:17,944 [56] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}
+
+2020-04-19 16:06:32,960 [57] INFO  RequestLog - http://localhost:51534/api/Course/GetCourseInfoAdmin
+token: 
+ data:{"pageNum":1,"pageSize":8,"field":"id","order":"asc","query":{"SL_courseName":""}}

@@ -463,7 +463,13 @@
         </member>
         <member name="M:ZXYL.Web.Api.Controllers.CourseController.GetCourseInfo(ZXYL.Web.Api.PageDataReq)">
             <summary>
-            根据课程页数获取课程
+            根据课程页数获取课程不包括停用的
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ZXYL.Web.Api.Controllers.CourseController.GetCourseInfoAdmin(ZXYL.Web.Api.PageDataReq)">
+            <summary>
+            根据课程页数获取课程，包括括停用的
             </summary>
             <returns></returns>
         </member>
@@ -483,11 +489,25 @@
             <param name="preModel"></param>
             <returns></returns>
         </member>
+        <member name="M:ZXYL.Web.Api.Controllers.CourseController.GetMedicalHomeInfo(System.Int32)">
+            <summary>
+            获取首页中医学专区和非医学专区的数据
+            </summary>
+            <param name="ismedical"></param>
+            <returns></returns>
+        </member>
         <member name="M:ZXYL.Web.Api.Controllers.CourseController.Delete(System.Int64)">
             <summary>
             根据id删除课程
             </summary>
             <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ZXYL.Web.Api.Controllers.CourseController.test(ZXYL.Model.Pub_course)">
+            <summary>
+            测试用例
+            </summary>
+            <param name="model"></param>
             <returns></returns>
         </member>
         <member name="M:ZXYL.Web.Api.Controllers.PubDeptController.GetChildList(System.String)">
